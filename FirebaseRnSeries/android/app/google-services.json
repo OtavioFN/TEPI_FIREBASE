@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "900491178464",
+    "project_id": "otvtepi",
+    "storage_bucket": "otvtepi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900491178464:android:76bc3a0ce8e6fbda41fb85",
+        "android_client_info": {
+          "package_name": "com.firebasernseries"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3IOM2oFvrHJMcB0OZlgnrqxuiY3Bq-cY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
